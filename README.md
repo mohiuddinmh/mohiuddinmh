@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohiuddinmh. An avid Software Developer (Java , Spring, .Net , React Angular JS TS ...) 
-- 👀 I’m interested in teachnology and full stack software development
-- 🌱 I’m currently learning Kotlin and GoLang
+- 👋 Hi, I’m @mohiuddinmh. An avid Software Developer (Javascript, Typescript, React, SolidJS, Angular) 
+- 👀 I’m interested in teachnology and absolutely love React ecosystem
+- 🌱 I’m currently learning Remix, SolidJS, Kotlin
 - 📫 How to reach me mohiuddinmh@gmail.com
 
 <!---
